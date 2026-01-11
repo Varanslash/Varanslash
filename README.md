@@ -18,8 +18,6 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 ## Current Projects  
 - Kaleidoscope: A framework for creating programming languages  
 - CommuCode: An open-source alternative to Roblox  
-- AutoPython: A general-purpose package for Python that automates many things, such as SQLite.  
-- DysonShell: Devs want secure files, and companies want trade secrets. Dyson provides a secure and local way to do both.  
   
 ## Other Projects You May Like  
 - [Kaleidoscope Toolkit](https://github.com/Varanslash/Kaleidoscope) -- Toolkit and hackable framework for language creation  
