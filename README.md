@@ -10,7 +10,20 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - Interpreters and language design  
 - Game Design  
 - Systems Design  
-- Clever Programming Tricks  
+- Clever Programming Tricks
+  
+## Languages I Know  
+- Python (Main)  
+- Rust  
+- Powershell  
+- GBZ80 Assembly (just starting out)  
+- ARMv8-a (just starting out)  
+- MySQL  
+- SQLite  
+- SQL  
+- HTML5  
+- CSS3  
+- Markdown  
   
 ## Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,py,rust,sqlite,vscode,windows)](https://skillicons.dev)  
