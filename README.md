@@ -30,13 +30,14 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
   
 ## Current Projects  
 - Kaleidoscope: A framework for creating programming languages  
-- CommuCode: An open-source alternative to Roblox  
+- VarOS: A VM for a toy/hobby OS.  
   
 ## Projects You May Like  
 - [Kaleidoscope](https://github.com/Varanslash/Kaleidoscope) -- Toolkit and hackable framework for language creation  
 - [A-](https://github.com/Varanslash/A-) -- Custom language built off of Kaleidoscope  
 - [Back On Mountain](https://github.com/Varanslash/Back-On-Mountain) -- GBC Game made in GB Studio  
 - [Misc.](https://github.com/Varanslash/Misc.) -- A repository to show off my learning!  
+- [VarOS](https://github.com/Varanslash/VarOS) -- A pseudo-OS coded in Rust, Powershell, Python, and SQL.  
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
