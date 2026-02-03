@@ -26,7 +26,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - Markdown  
   
 ## Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,py,rust,sqlite,vscode,windows,linux)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,rust,sqlite,vscode,windows,linux)](https://skillicons.dev)  
   
 ## Current Projects  
 - BaushaOS: A VM for a toy/hobby OS.  
