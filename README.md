@@ -16,8 +16,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - Python (Main)  
 - Rust  
 - Powershell  
-- GBZ80 Assembly (just starting out)  
-- ARMv8-a (just starting out)  
+- GBZ80 Assembly  
+- ARMv8-a  
 - MySQL  
 - SQLite  
 - SQL  
