@@ -36,7 +36,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [A-](https://github.com/Varanslash/A-) -- Custom language built off of Kaleidoscope  
 - [Back On Mountain](https://github.com/Varanslash/Back-On-Mountain) -- GBC Game made in GB Studio  
 - [Misc.](https://github.com/Varanslash/Misc.) -- A repository to show off my learning!  
-- [BaushaOS](https://github.com/Varanslash/BaushaOS) -- An OS project that contains a Markov bot, a VM, a compiler, and much more.  
+- [BaushaOS](https://github.com/Varanslash/BaushaOS) -- An OS project that contains a Markov bot, a VM, a compiler, and much more.
+- [DeltaOS](https://github.com/deltaoperatingsystem/deltaos) -- A fully working OS runnable in QEMU. Features its own bootloader, kernel, and shell, essentially written from scratch.
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
