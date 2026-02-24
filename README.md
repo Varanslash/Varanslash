@@ -30,6 +30,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
   
 ## Current Projects  
 - DeltaOS: A full OS runnable in QEMU! 
+- Arcturus: A full interpreted language, complete with a lexer, parser, AST, assembler, compiler, and VM!  
   
 ## Projects You May Like  
 - [Kaleidoscope](https://github.com/Varanslash/Kaleidoscope) -- Toolkit and hackable framework for language creation  
