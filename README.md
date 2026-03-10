@@ -23,7 +23,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - SQL  
 - HTML5  
 - CSS3  
-- Markdown  
+- Markdown
+- C  
   
 ## Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,rust,sqlite,vscode,windows,linux,c)](https://skillicons.dev)  
