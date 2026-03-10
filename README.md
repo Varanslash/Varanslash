@@ -13,8 +13,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - Clever Programming Tricks
   
 ## Languages I Know  
-- Python (Main)  
-- Rust  
+- Python  
+- Rust (Main)  
 - Powershell  
 - GBZ80 Assembly  
 - ARMv8-a  
