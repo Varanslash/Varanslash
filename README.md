@@ -40,8 +40,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [Misc.](https://github.com/Varanslash/Misc.) -- A repo to showcase small scripts I write.  
 - [BaushaOS](https://github.com/Varanslash/BaushaOS) -- An OS project that contains a Markov bot, a VM, a compiler, and much more.  
 - [DeltaOS](https://github.com/deltaoperatingsystem/deltaos) -- A fully working OS runnable in QEMU. Features its own bootloader, kernel, and shell, essentially written from scratch.  
-- [Aquamarine](https://github.com/deltaoperatingsystem/aquamarine) -- The standalone Aquamarine transpiler.  
-- [Arcturus](https://github.com/deltaoperatingsystem/arcturus) -- An interpreter language complete with its own lexer, parser, AST, assembler, compiler, and VM.  
+- [Aquamarine](https://github.com/Varanslash/aquamarine) -- The standalone Aquamarine transpiler.  
+- [Arcturus](https://github.com/Varanslash/arcturus) -- An interpreter language complete with its own lexer, parser, AST, assembler, compiler, and VM.  
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
