@@ -1,6 +1,6 @@
 ## Hi, I'm Varan! 👋  
   
-I'm Varanslash, a 14 year old programmer who's been coding and constantly learning for about five months. It's nice to meet you all!  
+I'm Varanslash, a 14 year old programmer who's been coding and constantly learning for about six months. It's nice to meet you all!  
 My pronouns: he/him  
   
 My goal is to get to full-stack + systems design, so I'm learning as much as I can!  
