@@ -42,6 +42,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [DeltaOS](https://github.com/deltaoperatingsystem/deltaos) -- A fully working OS runnable in QEMU. Features its own bootloader, kernel, and shell, essentially written from scratch.  
 - [Aquamarine](https://github.com/Varanslash/aquamarine) -- The standalone Aquamarine transpiler.  
 - [Arcturus](https://github.com/Varanslash/arcturus) -- An interpreter language complete with its own lexer, parser, AST, assembler, compiler, and VM.  
+- [OMEN](https://github.com/Varanslash/omen) -- Documentation of a theoretical console system with an accompanying devlog.  
+- [Lattice](https://github.com/Varanslash/lattice-2000) -- Attempting to design a CPU from scratch.  
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
