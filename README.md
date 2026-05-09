@@ -30,8 +30,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,rust,sqlite,vscode,windows,linux,c)](https://skillicons.dev)  
   
 ## Current Projects  
-- DeltaOS: A full OS runnable in QEMU! 
-- Arcturus: A full interpreted language, complete with a lexer, parser, AST, assembler, compiler, and VM!  
+- Lattice: CPU Design.
   
 ## Projects You May Like  
 - [Kaleidoscope](https://github.com/Varanslash/Kaleidoscope) -- Toolkit and hackable framework for language creation  
