@@ -33,7 +33,10 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - Lattice: CPU Design.
   
 ## Projects You May Like  
+- [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
 - [Kaleidoscope](https://github.com/Varanslash/Kaleidoscope) -- Toolkit and hackable framework for language creation  
+- [ZEROEXT](https://github.com/Varanslash/ZEROEXT) -- My first programming language  
+- [Cobalt](https://github.com/Varanslash/Cobalt-Assembly) -- My second programming language  
 - [A-](https://github.com/Varanslash/A-) -- Custom language built off of Kaleidoscope  
 - [Back On Mountain](https://github.com/Varanslash/Back-On-Mountain) -- GBC Game made in GB Studio  
 - [Misc.](https://github.com/Varanslash/Misc.) -- A repo to showcase small scripts I write.  
