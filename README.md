@@ -1,6 +1,6 @@
 ## Hi, I'm Varan! 👋  
   
-I'm Varanslash, a 14 year old trans girl programmer who's been coding and constantly learning for about eight months. It's nice to meet you all!  
+I'm Varanslash, a 14 year old trans girl programmer who's been coding and constantly learning for about nine months. It's nice to meet you all!  
 My pronouns: she/her  
   
 My goal is to get to full-stack + systems design, so I'm learning as much as I can!  
