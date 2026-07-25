@@ -1,6 +1,6 @@
-## Hi, I'm Varan! 👋  
+## Hi, I'm Kris! 👋  
   
-I'm Varanslash, a 14 year old trans girl programmer who's been coding and constantly learning for about nine months. It's nice to meet you all!  
+I'm Kris, a 14 year old trans girl programmer who's been coding and constantly learning for about nine months. It's nice to meet you all!  
 My pronouns: she/her  
   
 My goal is to get to full-stack + systems design, so I'm learning as much as I can!  
@@ -30,7 +30,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,rust,sqlite,vscode,windows,linux,c)](https://skillicons.dev)  
   
 ## Current Projects  
-- Lattice: CPU Design.
+- Lattice-4000
   
 ## Projects You May Like  
 - [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
@@ -45,7 +45,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [Aquamarine](https://github.com/Varanslash/aquamarine) -- The standalone Aquamarine transpiler.  
 - [Arcturus](https://github.com/Varanslash/arcturus) -- An interpreter language complete with its own lexer, parser, AST, assembler, compiler, and VM.  
 - [OMEN](https://github.com/Varanslash/omen) -- Documentation of a theoretical console system with an accompanying devlog.  
-- [Lattice-2000](https://github.com/Varanslash/lattice-2000) -- Attempting to design a CPU from scratch.  
+- [Lattice-2000](https://github.com/Varanslash/lattice-2000) -- Attempting to design a CPU from scratch.
+- [Lattice-4000](https://github.com/Varanslash/lattice-4000) -- An evolution of Lattice-2000.
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
