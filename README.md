@@ -30,7 +30,6 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,rust,sqlite,vscode,windows,linux,c)](https://skillicons.dev)  
   
 ## Current Projects  
-- Lattice-4000
   
 ## Projects You May Like  
 - [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
