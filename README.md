@@ -30,6 +30,8 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,rust,sqlite,vscode,windows,linux,c)](https://skillicons.dev)  
   
 ## Current Projects  
+
+- Vantage Walkers -- A physical TCG designed by me.
   
 ## Projects You May Like  
 - [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
@@ -46,6 +48,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [OMEN](https://github.com/Varanslash/omen) -- Documentation of a theoretical console system with an accompanying devlog.  
 - [Lattice-2000](https://github.com/Varanslash/lattice-2000) -- Attempting to design a CPU from scratch.
 - [Lattice-4000](https://github.com/Varanslash/lattice-4000) -- An evolution of Lattice-2000.
+- [Vantage Walkers](https://github.com/Varanslash/vantage-walkers) -- A physical TCG designed by me.
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
