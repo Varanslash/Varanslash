@@ -42,7 +42,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [Back On Mountain](https://github.com/Varanslash/Back-On-Mountain) -- GBC Game made in GB Studio  
 - [Misc.](https://github.com/Varanslash/Misc.) -- A repo to showcase small scripts I write.  
 - [BaushaOS](https://github.com/Varanslash/BaushaOS) -- An OS project that contains a Markov bot, a VM, a compiler, and much more.  
-- [DeltaOS](https://github.com/deltaoperatingsystem/deltaos) -- A fully working OS runnable in QEMU. Features its own bootloader, kernel, and shell, essentially written from scratch.  
+- [DeltaOS](https://github.com/deltaoperatingsystem/deltaos) -- A fully working OS runnable in QEMU. Features its own bootloader, kernel, and shell, essentially written from scratch. (I am not the creator; I am a contributor)
 - [Aquamarine](https://github.com/Varanslash/aquamarine) -- The standalone Aquamarine transpiler.  
 - [Arcturus](https://github.com/Varanslash/arcturus) -- An interpreter language complete with its own lexer, parser, AST, assembler, compiler, and VM.  
 - [OMEN](https://github.com/Varanslash/omen) -- Documentation of a theoretical console system with an accompanying devlog.  
