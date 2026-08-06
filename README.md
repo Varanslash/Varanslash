@@ -32,6 +32,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 ## Current Projects  
 
 - Vantage Walkers -- A physical TCG designed by me.
+- Dark Balter -- A chess bot.
   
 ## Projects You May Like  
 - [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
@@ -50,6 +51,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [Lattice-4000](https://github.com/Varanslash/lattice-4000) -- An evolution of Lattice-2000.
 - [Vantage Walkers](https://github.com/Varanslash/vantage-walkers) -- A physical TCG designed by me.
 - [Grain Logic](https://github.com/Varanslash/grain-logic) -- A mini project of mine where I handroll logic from NOR.
+- [Dark Balter](https://github.com/Varanslash/dark-balter) -- A chess bot.
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
