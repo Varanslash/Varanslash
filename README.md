@@ -32,7 +32,6 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 ## Current Projects  
 
 - Vantage Walkers -- A physical TCG designed by me.
-- Dark Balter -- A chess bot.
   
 ## Projects You May Like  
 - [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
