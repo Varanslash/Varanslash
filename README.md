@@ -1,6 +1,6 @@
 ## Hi, I'm Kris! 👋  
   
-I'm Kris, a 14 year old trans girl programmer who's been coding and constantly learning for about nine months. It's nice to meet you all!  
+I'm Kris, a 14 year old trans girl programmer who's been coding and constantly learning for about ten months. It's nice to meet you all!  
 My pronouns: she/her  
   
 My goal is to get to full-stack + systems design, so I'm learning as much as I can!  
