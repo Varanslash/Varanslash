@@ -1,6 +1,6 @@
-## Hi, I'm Kris! 👋  
+## Hi, I'm Kristine! 👋  
   
-I'm Kris, a 14 year old trans girl programmer who's been coding and constantly learning for about eleven months. It's nice to meet you all!  
+I'm Kristine, a 14 year old trans girl programmer who's been coding and constantly learning for about eleven months. It's nice to meet you all!  
 My pronouns: she/her  
   
 My goal is to get to full-stack + systems design, so I'm learning as much as I can!  
@@ -11,6 +11,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - Game Design  
 - Systems Design  
 - Clever Programming Tricks
+- Language Isolates
   
 ## Languages I Know  
 - Python  
@@ -24,14 +25,19 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - HTML5  
 - CSS3  
 - Markdown
-- C  
+- C (some of it, anyway)  
   
 ## Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,discord,github,md,mysql,powershell,rust,sqlite,vscode,windows,linux,c)](https://skillicons.dev)  
   
 ## Current Projects  
 
+- Drowel -- A text rpg.
+
+## Back Burner
+
 - Vantage Walkers -- A physical TCG designed by me.
+- Struct Theory -- A fun design attempt at a math system.
   
 ## Projects You May Like  
 - [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
@@ -54,6 +60,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [Forsyth](https://github.com/Varanslash/forsyth) -- A project in which I make a compiler that compiles instructions (FENs) based on algorithmic rules rather than fixed parsing and reading.
 - [IXC](https://github.com/Varanslash/ixc) -- A two instruction esolang.
 - [Drowel](https://github.com/Varanslash/drowel-rpg) -- A text rpg with a relatively modular hand-written engine.
+- [Struct Theory] -- A fun design attempt at a math system.
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
