@@ -53,6 +53,7 @@ My goal is to get to full-stack + systems design, so I'm learning as much as I c
 - [Dark Balter](https://github.com/Varanslash/dark-balter) -- A chess bot.
 - [Forsyth](https://github.com/Varanslash/forsyth) -- A project in which I make a compiler that compiles instructions (FENs) based on algorithmic rules rather than fixed parsing and reading.
 - [IXC](https://github.com/Varanslash/ixc) -- A two instruction esolang.
+- [Drowel](https://github.com/Varanslash/drowel-rpg) -- A text rpg with a relatively modular hand-written engine.
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
