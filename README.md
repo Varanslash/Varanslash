@@ -4,6 +4,8 @@ I'm Kristine, a 14 year old trans girl programmer who's been coding and constant
 My pronouns: she/her  
   
 My goal is to master computer science, so I'm learning as much as I can!  
+
+I do one project per 1-2 months. I study discrete math and Vietnamese at times, and am planning to start to learn C and Assembly on a deeper level.
   
 ## Interests  
 - Low-level computing  
@@ -34,10 +36,11 @@ My goal is to master computer science, so I'm learning as much as I can!
 
 - Drowel -- A text rpg.
 
-## Back Burner
+## Back Burner / Long Term Projects
 
 - Vantage Walkers -- A physical TCG designed by me.
 - Struct Theory -- A fun design attempt at a math system.
+- Bauthic -- A spoken/written language.
   
 ## Projects You May Like  
 - [tracedot](https://github.com/Varanslash/tracedot) -- My first project.  
@@ -60,7 +63,8 @@ My goal is to master computer science, so I'm learning as much as I can!
 - [Forsyth](https://github.com/Varanslash/forsyth) -- A project in which I make a compiler that compiles instructions (FENs) based on algorithmic rules rather than fixed parsing and reading.
 - [IXC](https://github.com/Varanslash/ixc) -- A two instruction esolang.
 - [Drowel](https://github.com/Varanslash/drowel-rpg) -- A text rpg with a relatively modular hand-written engine.
-- [Struct Theory] -- A fun design attempt at a math system.
+- [Struct Theory](https://github.com/Varanslash/struct-theory) -- A fun design attempt at a math system.
+- [Bauthic](https://github.com/Varanslash/bauthic) -- A spoken/written language.
   
 ## How to reach me  
 📫 varanslash1@gmail.com  
