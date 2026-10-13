@@ -14,6 +14,7 @@ I do one project per 1-2 months. I study discrete math and Vietnamese at times, 
 - Systems Design  
 - Clever Programming Tricks
 - Language Isolates
+- Gothic
   
 ## Languages I Know  
 - Python  
