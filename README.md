@@ -1,6 +1,6 @@
 ## Hi, I'm Kristine! 👋  
   
-I'm Kristine, a 14 year old trans girl programmer who's been coding and constantly learning for about eleven months. It's nice to meet you all!  
+I'm Kristine, a 14 year old trans girl programmer who's been coding and constantly learning for about a year. It's nice to meet you all!  
 My pronouns: she/her  
   
 My goal is to master computer science, so I'm learning as much as I can!  
